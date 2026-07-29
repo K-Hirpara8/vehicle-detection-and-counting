@@ -1,4 +1,5 @@
-path: ML1/data
+
+path: archive (1)\Vehicle_Detection_Image_Dataset
 
 train: train/images
 val: valid/images
